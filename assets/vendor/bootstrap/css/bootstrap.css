@@ -727,11 +727,6 @@ progress {
   width: 8.33333333%;
 }
 
-.col-1a {
-  flex: 0 0 auto;
-  width: 12%;
-}
-
 .col-2 {
   flex: 0 0 auto;
   width: 16.66666667%;
@@ -1154,10 +1149,6 @@ progress {
     width: 8.33333333%;
   }
 
-  .col-md-1a {
-    flex: 0 0 auto;
-    width: 12%;
-  }
   .col-md-2 {
     flex: 0 0 auto;
     width: 16.66666667%;
@@ -1369,11 +1360,6 @@ progress {
   .col-lg-1 {
     flex: 0 0 auto;
     width: 8.33333333%;
-  }
-
-  .col-lg-1a {
-    flex: 0 0 auto;
-    width: 14.2746913580%;
   }
 
   .col-lg-2 {
